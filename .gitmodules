@@ -1,0 +1,3 @@
+[submodule "Plugins/HttpWebServer"]
+	path = Plugins/HttpWebServer
+	url = git@github.com:xuzehao-github/HttpWebServer.git
